@@ -78,6 +78,8 @@ public class PrimitiveData {
             System.out.println("My string is equal to " + myString);
 
             int result = 1 + 2;
+            System.out.println(" 1 + 2 =" + result);
+
 
 
         }
